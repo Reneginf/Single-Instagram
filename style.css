@@ -1,0 +1,75 @@
+body {background-color: black;}
+
+.post {
+    height: 500px;
+    width: 400px;
+    padding: 10;
+    margin: auto;
+    border: 2px black solid;
+    background-color: white;
+    font-family: monospace;
+    font-size: larger;
+}
+
+.icon {
+    padding: 10px;
+    height:20px;
+    width: 20px;
+    display: inline-block;
+}
+
+.name  {
+    height: 20;
+    width: auto;
+    display: inline-block;
+}
+.n1 {
+    padding: 0;
+    margin: 0;
+}
+.n2 {
+    padding: 0;
+    margin: 0;
+    font-size: small;
+}
+
+.options {
+    padding: 10px;
+    height: 20px;
+    width: 20px;
+    display: inline-block;
+    float: right;
+}
+
+img {
+    height: 270px;
+    width: 400px;
+}
+.buttons {
+    height: 20px;
+    width: 400px;
+    display: inline-block;
+}
+
+.b1 {
+    padding: 5px;
+    height: 25px;
+    width: 25px;
+    display: inline-block;
+}
+
+.b2{
+    padding: 5px;
+    height: 20px;
+    width: 20px;
+    display: inline-block;
+    float: right;
+}
+
+p{
+    padding: 2px;
+}
+
+.post-text {
+    margin: 5px;
+}
